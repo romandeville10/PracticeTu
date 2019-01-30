@@ -1,0 +1,3 @@
+course:30 credits
+course:120 credits
+course:360 credits
